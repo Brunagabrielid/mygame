@@ -26,7 +26,7 @@ var
 inicio
 
 
-   escreval ("Seção de créditos")
+   escreval ("Seção de créditosss")
    escreval ()
    escreval (" ||||||||  ||||   ||| |||||||||  |||||||||| ")
    escreval ("|||    ||| |||||  ||| |||   |||| |||        ")
